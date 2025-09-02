@@ -1,0 +1,19 @@
+data point
+x-axis,y-axis
+figure
+axes
+plot
+marker 
+line style 
+color 
+legend
+label
+title
+grid 
+function 
+method
+parameters
+key word arguments
+oo api
+dpi - dots per inch
+backend
